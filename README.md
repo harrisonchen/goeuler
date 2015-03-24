@@ -7,3 +7,4 @@ Project Euler solutions written in Go !!!
 
 * 1
 * 2
+* 3
